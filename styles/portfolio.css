@@ -50,6 +50,7 @@ nav a{
     background-image: url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: bottom right;
+    justify-content: space-between;
 
 }
 .banner .profile-pic{
@@ -65,4 +66,18 @@ nav a{
     font-size: 85px;
     font-weight: 700;
     margin-top: 5px;
+    margin-bottom: 20px;
+}
+.banner-des{
+    margin-top: 0;
+    margin-bottom: 30px;
+
+
+}
+.banner-content{
+    max-width: 700px;
+}
+.profile-pic{
+    width: 500px;
+
 }
